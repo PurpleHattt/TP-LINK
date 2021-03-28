@@ -10,6 +10,7 @@ print("insert your wifi adapter(s)")
 print(Fore.YELLOW)
 print('-' * 50)
 print(Fore.RESET)
+print("I'll wait for 15 seconds. ")
 os.system("ip a")
 time.sleep(20)
 os.system("sudo apt install -y python3-setuptools libnl-3-dev libnl-genl-3-dev libssl-dev")
@@ -19,6 +20,8 @@ print('-' * 50)
 print(Fore.CYAN)
 print('The script is done, Happy hacking!')
 print('𝔐𝔞𝔡𝔢 𝔟𝔶 𝔓𝔲𝔯𝔭𝔩3ℌ𝔞𝔱𝔱𝔱 - 𝔊𝔦𝔱𝔥𝔲𝔟')
+print(Fore.YELLOW)
+print('-' * 50)
 
 
 
