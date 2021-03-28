@@ -2,6 +2,7 @@ import os
 import sys 
 import apt
 import time
+from colorama import Fore, Back, Style
 print(Fore.YELLOW)
 print('-' * 50) 
 print(Fore.RESET)
